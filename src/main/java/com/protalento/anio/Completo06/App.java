@@ -23,6 +23,8 @@ public class App
         
         System.out.println( 1+2 );// hotfix
         
-        System.out.println( 1+2 );// arts 2 arts
+        System.out.println( 1+2 );// arts 2 arts 
+        
+        System.out.println( 1+2 );// 1 2arts
     }
 }
