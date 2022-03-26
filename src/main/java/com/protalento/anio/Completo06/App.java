@@ -22,5 +22,7 @@ public class App
         System.out.println( 1+2 );//2-feature1 2-feature23
         
         System.out.println( 1+2 );// hotfix
+        
+        System.out.println( 1+2 );// arts
     }
 }
